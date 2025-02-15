@@ -28,3 +28,14 @@ SQL statements, or queries, are instructions that the database understands. In o
 
 Let’s test out a query real quick. 🙌
 
+# Instructions
+
+Copy and paste the following statement:
+
+```bash 
+SELECT * FROM shows;
+```
+Then press the "Run" button and wait 1-2 seconds.
+
+You should see the `shows` table appear. See if you recognize any of the shows!
+
